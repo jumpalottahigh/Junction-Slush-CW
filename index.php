@@ -15,20 +15,24 @@
 </head>
 
 <body>
-  <div class="container">
-    <div class="row">
-      <h1>Carl's Wife</h1>
-      <h2>Hello</h2>
-      <p>Loreum Ipsum</p>
+
+  <header>
+    <h1>Menu Items</h1>
+  </header>
+
+  <section>
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-12">
+          <button id="play" class="btn btn-primary">PLAY</button>
+        </div>
+      </div>
     </div>
-  </div>
-  <div class="container">
-    <div class="row">
-      <h1>Carl's Wife</h1>
-      <h2>Hello</h2>
-      <p>Loreum Ipsum</p>
-    </div>
-  </div>
+  </section>
+
+  <footer>
+    <p>Footer info</p>
+  </footer>
   <!-- jQuery JS -->
   <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
   <!-- Bootstrap JavaScript -->
