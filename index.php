@@ -19,7 +19,7 @@
     <div class="row">
       <h1>Carl's Wife</h1>
       <h2>Hello</h2>
-      <p>asdas</p>
+      <p>Loreum Ipsum</p>
     </div>
   </div>
   <!-- jQuery JS -->
